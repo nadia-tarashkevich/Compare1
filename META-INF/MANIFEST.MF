@@ -4,6 +4,6 @@ Build-JVM: 11.0.13 (Amazon.com Inc. 11.0.13+8-LTS)
 Version: 1.0
 Build-Plugin: Gradle IntelliJ Plugin
 Build-Plugin-Version: 1.3.0
-Build-OS: Mac OS X 11.6.1 x86_64
+Build-OS: Linux 5.4.0-94-generic amd64
 Build-SDK: IC-2020.3
 
